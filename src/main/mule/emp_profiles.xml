@@ -131,7 +131,7 @@ output application/json
 ---
 {
   empId: "219",
-  empName: "mahesh vanaparthi",
+  empName: "vanaparthi mahesh",
   email: "mahesh@gmail.com"
 } as Object {encoding: "UTF-8", mediaType: "application/json"}]]></ee:set-payload>
             </ee:message>
